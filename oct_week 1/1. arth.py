@@ -1,0 +1,16 @@
+a=10
+b=2
+c=a+b
+print(c)
+d=a-b
+print(d)
+e=a*d
+print(e)
+f=a/d
+print(f)
+g=a%d
+print(g)
+h=a**b
+print(h)
+i=a//d
+print(i)
